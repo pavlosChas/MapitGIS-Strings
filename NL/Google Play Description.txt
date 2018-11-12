@@ -1,0 +1,58 @@
+Title:(Maximum 50 characters)
+Mapit GIS - Karteringen & Terreinmetingen
+
+
+
+Short description:(Maximum 80 characters)
+Mobiel GIS. Terreininventarisatie, GPS/GNSS metingen en Gegevensbeheer.
+
+
+
+FULL Description (Maximum 4000 characters)
+Mapit is een professionele, op zichzelf staande, kostenefficiente app voor karteringen en landmetingen die ontworpen is om de productiviteit te verhogen terwijl u aan het werk bent op het terrein. 
+
+De app ondersteunt veelgebruikte bestandsformaten voor invoer en uitvoer en is in staat om samen te werken met een aantal externe GNSS ontvangers zodat je centimeter-nauwkeurigheid kan bekomen wanneer nodig. 
+
+Ontwerp uw inventarisatieformulier, organiseer uw gegevens in lagen, werk offline met MbTiles achtergrondkaarten, spreek WMS services aan, gebruik GPS tracking om uw lijn- en vlakvormige kaartobjecten te capteren, sla GNSS metadata op en nog veel meer mogelijheden om te ontdekken.
+
+Deze app wordt veelvuldig gebruikt door professionelen over heel de wereld en kan gemakkelijk aangepast worden voor verschillende toepassingsgebieden van landbouw en bosbouw tot wegenaanleg, geologie, landmeting en oplossingen voor zonnepanelen. Persoonlijke instellingen en flexibiliteit maken deze app een effectief hulpmiddel die het werkproces van uw inventarisaties zal verbeteren.
+
+De app kan ook gebruikt worden voor het meten van oppervlaktes en afstanden.
+
+Als je de locatie opslaat, kies je de vereiste waarden eenvoudig uit een voorgedefinieerde keuzelijst, niet nodig om dezelfde informatie steeds weer in te voeren. Importeer lange lijsten met waarden uit tekstbestanden en hergebruik deze in verschillende projecten. Indien nodig kan je ook foto's of afbeeldingen toevoegen aan iedere locatie.
+
+Als je op het terrein werkt en grote hoeveelheden ruimtelijke gegevens verzamelt, is deze app voor jou gemaakt. 
+
+Neem aub een kijkje op onze website en volg de rondleiding (Walk-Through) - http://mapit-gis.com om vertrouwd te geraken met de workflow van deze toepassing. 
+
+Mobiele Gegevensverzameling bestaat uit:
+
+- Achtergrondkaarten: Google Maps, Bing Maps, Open Street Map, Mapbox en Offline mbtiles,
+- Ondersteuning voor RTK-gecorrigeerde coördinaten als externe Bluetooth GPS / GNSS aangesloten is,
+- Ondersteuning voor WMS en ArcGIS Server Tiled map services en Google Maps Overlays Load topographic and orthophoto maps, geological surveys, cadastral information and number of other services,
+- Mogelijkheid om attributen sets aan te maken en te onderhouden - deze zijn beschikbaar als keuzelijsten als een nieuw kaartobject gekarteerd wordt, lange lijsten met waarden kunnen vanuit tekstbestanden geïmporteerd worden,
+- Punten dichtbij elkaar worden als cluster weergegeven, een efficiënte manier om te werken met grote hoeveelheden punten op de kaart zonder prestatieproblemen,
+- Momenteel zijn er voor de gegevensverzameling 4 methoden van plaatsbepaling aangeboden (GPS / GNSS locatie, kaartcursor locatie, tracking, Punt projectie obv hoek en afstand),
+- Mogelijkheid om uw gegevens te groeperen in de inventarisatielagen - elke inventarisatielaag kan een standaard attributen set hebben,
+- Lokale SD card of externe verbinding voor opslag. Momenteel wordt export naar Esri SHP files, KML, CSV, GeoJSON, ArcGIS JSON, GPX en DXF ondersteund,
+- Direct export naar Dropbox of FTP locatie,
+- Mogelijkheid om meerdere punten, lijnen of vlakken op te slaan in één laag,
+- Bij aanmaak van een nieuw vlakvormig of lijnvormig kaartobject zijn oppervlakte en lengte ook beschikbaar,
+- GPS/GNSS en satellieten status,
+- Zoekfunctie voor adressen en plaatsen,
+- Importeer punt-, lijn- en vlakvormige kaartobjecten in een laag vanuit een CSV, KML, ESRI Shapefile of GeoJSON bestand,
+- Beheer reservekopies,
+- Importeer/Exporteer eigenschappen uit een bestand en nog veel meer te ontdekken...
+
+Onze gebruikers zijn succesvol met het gebruik van MapIt in verschillende toepassingsgebieden waaronder:
+- milieu studies,
+- bosbouwplanning en inventarisatie ifv bosbeheer,
+- landbouw en bodemtypologie,
+- wegenaanleg,
+- landmeting,
+- zonnepanelen,
+- dakbedekkingen en omheiningen, 
+- boomkarteringen,
+- GPS en GNSS inventarisaties,
+- karteren vervuilde sites en verzamelen van bodemstalen
+- sneeuwruiming
