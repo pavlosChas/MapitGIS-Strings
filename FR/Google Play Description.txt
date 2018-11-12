@@ -1,0 +1,55 @@
+Title:(Maximum 50 characters)
+Mapit GIS - Enquête et collecte des données GPS 
+
+
+
+Short description:(Maximum 80 characters)
+Enquêtes de terrain GPS - SIG mobile pour la collecte et les mesures de données.
+
+
+
+FULL Description (Maximum 4000 characters)
+MapIt est une application conçue pour la la collecte de données GPS et toute sorte d'enquêtes GPS / GNSS. C'est un outil SIG mobile pour les agents de terrain et enquêteurs, et toute personne concernée par les données environnementales et SIG. MapIt rend le processus de collecte de données et d'enquête terrain plus rapide et plus productif.
+L'application peut aussi être utilisée pour mesurer des surfaces et des distances.
+Les données peuvent être organisées en couches et exportées dans de nombreux formats communs.   
+
+Lors de la saisie d'une localisation, choisissez les attributs nécessaires depuis des listes déroulantes pré-définies. Plus besoin de taper la même information des centaines de fois. Importez de longues listes d'attributs depuis des fichiers texte et ré-utilisez les dans plusieurs projets. Il est aussi possible d'ajouter des photos pour  chaque entité.
+
+Si vous travaillez sur le terrain et collectez de grandes quantités de données spatialisées, cette application est faite pour vous.
+MapIt est une application parfaite pour quiconque évoluant dans la foresterie, l'agriculture, ou encore l'environnement, permettant une collecte de données spatiales rapide et évitant la saisie répétée de la même information de multiples fois.  
+
+Accélerez votre workflow et optimiser la collecte des données. Tirez avantage de couches d'enquête et profitez de la possibilité de la ré-utilisation d'un même jeu d'attributs pour différents projets. Exportez vos données dans les formats SIG communs, comme les Esri shapefiles, CSV, KML, GeoJSON, ArcGIS JSON, DXF, GPX, et ainsi post-traitez vos données avec les logiciels SIG bureau comme ArcGIS, ArcGIS Online ou QGIS.
+
+Visitez notre site web, et suivez la visite guidée - http://mapit-gis.com pour découvrir le fonctionnement de l'application.
+
+Supporte de nombreux systèmes de coordonnées : WGS84 (decimal ou degrés), Web Mercator, British National Grid, UTM SAD69 (Brézil), UTM NAD83, NATO, Stereo 70 (Roumanie), System 1992 (Pologne), UTM Indian 1975 (Thailande), SIRGAS 2000 UTM pour Amérique du Sud et Latine, ETRS89, TM06 – Portugal, D73 Grille portufaise modifiée, ou si nécessaire fournissez votre code ESPG.
+
+Caractéristiques de l'application mobile de collecte de données :
+
+- Fonds de carte: Google Maps, Bing Maps, Open Street Map, Mapbox et Offline mbtiles,
+- Support pour corrections RTK (GPS / GNSS Bluetooth nécessaire),
+- Support pour services WMS et ArcGIS Server "as Google Maps Overlays" (cartes topographiques et orthophotos, cartes géologiques, plan cadastraux et nombreux autres ervices),
+- Possibilité de créer et conservez des jeux d'attributs - disponibles sous forme de liste déroulantes lors de la saisie, et d'importer de longue liste de valeurs depuis des fichiers texte,
+- Regroupement en cluster des marqueurs points, efficace pour l'affichage d'important nombre de points sans réduire les performances,
+- Actuellement 4 méthodes de collecte supportées (localisation GPS / GNSS, curseur de carte, tracking, projection de point à partir d'angle et de distance),
+- Possibilité de grouper les données au sein de couches "enquête" - chaque couche enquête peut avoir un set d'attributs par défaut,
+- Sauvegarde sur carte SD interne? ou export externe. Formats d'export supportés : Esri SHP files, KML, CSV, GeoJSON, ArcGIS JSON, GPX et DXF,
+- Export direct sur Dropbox ou FTP,
+- Import de points, lignes, polygones depuis des fichiers CSV, KML, ESRI Shape ou GeoJSON,
+- Backup management
+
+Et bien plus encore...
+
+
+Nos utilisateurs utilisent MapIt dans de nombreux domaines, inclus :
+- enquêtes environnementales,
+- foresterie,
+- planification et aménagement forestier,
+- agriculture et enquêtes pédologiques,
+- constructions routières,
+- suivi d'occupation du sol,
+- panneaux solaires, 
+- suivis d'espèces,
+- et d'autres besoins liés à la collecte de données localisées par GPS et GNSS,
+
+N'hésitez pas à nous contacter directement ou en utilisant le formulaire de contact sur notre site.
