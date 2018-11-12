@@ -1,0 +1,46 @@
+Title:(Maximum 50 characters)
+Mapit GIS - GPS Datenerfassung & Landvermessung
+
+
+
+Short description:(Maximum 80 characters)
+GPS und Karten basierte Datenerhebung - Mobiles GIS zur Sammlung von Messungen.
+
+
+
+FULL Description (Maximum 4000 characters)
+MapIt ist eine GIS-Anwendung die entwickelt wurde um beim Aufbau von GPS-Datensammlungen und bei allen möglichen GPS-Vermessungen zu unterstützen. Es ist ein mobiles GIS-Werkzeug für Vermesser and Menschen die mit Umwelt- und anderen GIS-Daten arbeiten. MapIt beschleunigt die Erfassung von GIS-Datensammlungen und den Vermessungsprozess. 
+Die Anwendung kann auch für die Vermessung und die Berechnung von Flächen von Entfernungen verwendet werden.
+Wenn eine Position neu erfasst wird können die erforderlichen Attribute aus einer vorher definierten DropDown-Auswahlliste gewählt werden, die gleichen Informationen müssen nicht immer wieder Zeichen für Zeichen eingetippt werden. Wenn es erforderlich ist können vordefinierte und lange Listen von Attribut-Werten aus Textdateien gelesen und in verschiedenen Projekten verwendet werden. Bei Bedarf kann zu jeder Position ein oder mehrere Fotos hinterlegt werden.
+Wenn Du in der Praxis große Sammlungen von räumlichen/postionsbezogenen Daten anlegst und verwaltest ist diese Anwendung genau das Richtige für Dich. 
+Map It ist ein sehr nützliches Werkzeug für alle die mit Forstwirtschaft, Landwirtschaft, Ackerbau oder dem Umweltbereich zu tun haben und erlaubt die schnelle Sammlung von positionsbezogenen Daten ohne die gleichen Werte immer wieder Zeichen für Zeichen eingeben zu müssen.
+Beschleunige deinen Arbeitsfluss und steigere die Effizenz bei der Datenerfassung. Ziehe deinen Nutzen aus den Vermessungs-Layern und der Möglichkeit das gleiche Attribut-Set für verschiedene Vermessungsaufgaben zu verwenden. Exportiere deine Daten in allgemein bekannte Dateiformate wie SHP files, CSV, KML, GeoJSON, GPX, ArcGIS JSON und verarbeite diese dann mit einer Desktop-GIS-Software wie ArcGIS, ArcGIS Online oder Open Source QGIS und anderen Profi-Werkzeugen wie MS-Office.
+
+Folgende Koordinatensystem werden unterstützt: WGS84, Web Mercator, British National Grid, UTM SAD69 (Brazil), UTM NAD83, NATO
+
+Nützliche Eigenschaften für die mobile Erfassung von Daten:
+- Basiskarten: Google Maps, Bing Maps, Open Street Map, Mapbox and Offline mbtiles,
+- Unterstützung für WMS und ArcGIS Server Karten-Kachel-Dienste wie Google Maps Überlagerungen (topographische Karten, Karten mit Orthofotos, geologische Oberflächen, Kataster-Informationen und andere landesspezifische Dienste)
+- Die Möglichkeit Attribut-Sets zu erstellen und zu verwalten - diese werden dann als DropDown-Auswahlliste angezeigt wenn ein neues Feature erstellt wurde, umfangreiche Wertelisten für Attribute können aus Dateien eingelesen werden.
+- Abhängig von der Zoomstufe werden die Kartenmarkierungen zu Gruppen zusammengefasst, dies ist ein effizienter Weg um ohne Geschwindikeitseinbußen eine große Anzahl von Punkten auf der Karte zu verwalten,
+- Derzeit werden 2 Methoden zur Postionsbestimmung unterstützt (GPS-Lokalisierung, Karen-Cursor-Lokalisierung),
+- Die Möglichkeit die Daten in Vermessungslayern zu gruppieren - jeder Vermessungslayer kann auf einem eigenen Attribut-Set basieren.
+- Die Option die Daten auf die lokale SD-Karte zu exportieren oder sie weiterzugeben. Zur Zeit werden folgende Exportformate unterstützt: KML, CSV, GeoJSON, ArcGIS JSON, GPX und DXF
+- Es können mehrere Punkte, Linien und Polygone auf einem Layer verwaltet werden,
+- Wenn ein neues Polygon- oder Linien-Feature erstellt wird sind Maßangaben wie Fläche oder Länge verfügbar.
+- GPS und Satelliten-Status,
+- Adressen-, Positionssuche,
+- Importieren von Punkt-, Linien und Polygon-Feature in einen Layer aus einer CSV-, KML- oder geojson-Datei heraus
+- Importieren von Attribut-Werten aus einer Datei
+Unsere Benutzer verwenden MapIt für verschiedene Anwendungsgebiete:
+- Umweltbereich,
+- Forstwirtschaft,
+- forstwirtschaftliche Planung und Waldgebiete-Verwaltung,
+- Landwirtschaft und verschiedene Anbauflächen/Kulturpflanzen,
+- Straßenbau,
+- Landvermessung,
+- Solaranlagen,
+- versiegelte Flächen, Dachflächen, Einzäunungen, 
+- Baumkataster,
+- GPS-Vermessung,
+- Baustellen und Bodenproben
