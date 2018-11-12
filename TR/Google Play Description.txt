@@ -1,0 +1,49 @@
+Title:(Maximum 50 characters)
+Mapit GIS - GPS Haritalama & Ölçüm 
+
+
+
+Short description:(Maximum 80 characters)
+GPS ve harita tabanlı etüt - Veri toplama ve ölçümler için mobil CBS...
+
+
+
+FULL Description (Maximum 4000 characters)
+MapIt, GPS kullanılarak veri toplanmasına ve GPS tabanlı saha çalışmalarına destek olmak üzere tasarlanmış bir CBS - Coğrafi Bilgi Sistemi - uygulamasıdır. Her türlü CBS uygulamalarını kullananlar ve sahada çalışanlar için mobil CBS aracıdır. MapIt, yerinde veri toplanması ve CBS'ye aktarılması işlerini hızlandırır ve verimli hale getirir. Uygulama aynı zamanda mesafe ölçümü ve alan hesaplaması için de kullanılabilir. Yerinde lokasyon kaydetmek için, önceden belirleyeceğiniz özniteliklerden gelen açılır listeleri kullanırsınız, böylelikle aynı bilgileri farklı yerler için tekrar ve tekrar girmenize gerek kalmaz. Uzun öznitelik listelerini metin (txt) dosyalarından pratik bir şekilde içeri aktarabilir ve diğer projelerinizde de kullanabilirsiniz. İhtiyaç halinde her bir lokasyona bir veya daha fazla fotoğraf ekleyebilirsiniz.
+   
+Sahada çalışıyor ve yüklü miktarlarda mekansal / alansal veri topluyorsanız bu uygulama tam size göre. MapIt ormancılık, kadastro, tarım, çevre, yerbilimleri vb. faaliyet alanlarında kullanılabilecek faydalı bir araçtır. İş akışınızı hızlandırıp, veri toplama görevlerini daha verimli hale getirin. Farklı katmanları ve öznitelikleri çeşitli çalışmalarda kullanabilmenin ayrıcalığını yaşayın. Ürettiğiniz verileri SHP files, CSV, KML, GeoJSON, ArcGIS JSON, GPX, DXF gibi yaygın formatlarda dışa aktarın ve ArcGIS, QGis vb. CBS yazılımlarında veya MS Office benzeri platformlarda düzenleyin.
+  
+http://mapit-gis.com internet sitemizi ziyaret ederek Ağaç Envanteri (örnek tetkik kullanımı) örneği ile uygulamanın çalışması hakkında fikir edinebilirsiniz.
+  
+Desteklenen koordinat sistemleri: WGS84 (ondalık veya derece), Web Merkatör, Britanya Ulusal Gridi, UTM SAD69 (Brezilya), UTM NAD83, NATO, Stereo 70 (Romanya), System 1992 (Polonya), UTM Hint 1975 (Tayland), Güney ve Latin Amerika için SIRGAS 2000 UTM koordinat sistemi, ETRS89 TM06 – Portekiz, D73 Modifiye Portekiz Gridi.
+   
+Mobil veri toplama için kullanışlı özellikler:
+- Altlık haritalar: Google Haritalar, Bing Haritalar, Open Street Map, Mapbox ve çevrimdışı mbtile mozaikleri
+- Google Haritalar gibi bindirme özellikli  WMS ve ArcGIS Sunucu döşeme haritaları için destek (arazi, ortofoto, jeolojik, kadastral veriler, ve bir dizi ülkelere özel ücretsiz servislerin Google Haritalar üzerinde kullanılabilmesi).
+- Veri özniteliklerini oluşturma ve değiştirme imkanı - açılır listeler, metin dosyalarından içeri aktarma seçeneği.
+- Harita üzerinde fazla sayıda verinin performans sorunu yaratmadan yönetilebilmesi için harita belirteç kümeleri.
+- Veri toplanması için 2 yöntem desteklenmektedir (GPS lokasyonu, harita imleç lokasyonu)
+- Verilerin farklı katmanlarda gruplandırılması imkanı - her bir katmanın farklı özniteliklere sahip olabilmesi.
+- Yerel SD hafıza kartına kayıt veya paylaşma seçenekleri. Desteklenen dışa aktarım türleri SHP files, KML, CSV, GeoJSON, ArcGIS JSON, GPX, DXF
+- Bir katman üzerine çoklu nokta, çizgi ve poligon kaydetme imkanı,
+- Yeni poligon veya çizgi oluşturulması sırasında alan ve uzunluk detaylarının görüntülenmesi.
+- GPS ve uydu durumlarının görüntülenmesi,
+- Adres, lokasyon araması,
+- Katmanlara CSV, KML veya GeoJSON dosyalarından obje içe aktarımı
+- Özniteliklerin dışarıdan aktarılabilmesi
+    
+MapIt'in başarılı şekilde kullanıldığı alanlar:
+- Çevre,
+- Orman,
+- Saha planlama ve yönetimi,
+- Ziraat ve toprak,
+- Yol çalışmaları, inşaat,
+- Arazi etüt,
+- Yenilenebilir enerji uygulamaları,
+- Sahadan örnek / numune alımı,
+- GPS ölçümleri
+- Yerbilimleri (jeoloji, jeofizik, maden, coğrafya)
+ 
+Eğer yukarıda tarif edilen işlerle meşgulseniz uygulamayı deneyerek size ne kadar zaman kazandırdığını keşfedebilirsiniz.
+  
+Yaşayabileceğiniz her türlü sıkıntı veya geliştirme önerileriniz için internet sitemizde yeralan formları kullanarak veya doğrudan bize ulaşarak geri bildirim gönderebilirsiniz. Tüm görüşler ve öneriler bizim için önemli ve değerlidir; Katkılarınız için şimdiden teşekkür ederiz.
