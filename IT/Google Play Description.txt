@@ -1,0 +1,55 @@
+Title:(Maximum 50 characters)
+Mapit GIS - Rilevamenti e misurazioni GPS
+
+
+
+Short description:(Maximum 80 characters)
+GIS mobile per la raccolta e la misurazione dei dati.
+
+
+
+FULL Description (Maximum 4000 characters)
+MapIt è un'applicazione GIS progettata per supportare la raccolta di dati GPS e qualsiasi tipo di indagini basate su GPS / GNSS. Si tratta di uno strumento mobile di GIS per gli ispettori di campo e per chiunque si occupi di dati ambientali e GIS. MapIt rende più veloce e più efficiente la raccolta di dati GIS o il processo di indagine sul campo.
+L'applicazione può essere utilizzata anche come strumento di misura per calcolare aree o distanze.
+I dati possono essere organizzati su più livelli ed esportati in numerosi formati di uso comune.
+
+Quando si acquisisce una posizione, basta semplicemente scegliere tra gli attributi proposti da un elenco a discesa definito dall'utente, senza necessità di digitare le stesse informazioni più e più volte. E' possibile importare lunghe liste di attributi da semplici file di testo (.txt) e riutilizzarli in diversi progetti. Se necessario è possibile aggiungere una fotografia ad ogni posizione acquisita.
+
+Se stai lavorando in campo, raccogliendo una grande quantità di dati spaziali / basati sulla localizzazione, questa applicazione è stata progettata per te.
+MapIt è un'applicazione perfetta per chiunque sia coinvolto in attività forestali, agricole, ambientali o di campagna e consente una rapida raccolta di dati spaziali senza la necessità di digitare informazioni simili più volte.
+
+Accelera il tuo flusso di lavoro e rendi la raccolta di dati più efficiente. Sfrutta i diversi layer di indagine a disposizione e la possibilità di riutilizzare lo stesso set di attributi per più sondaggi. 
+
+Sono supportati, inoltre, numerosi sistemi di coordinate o altri sistemi di coordinate fornendo il codice EPSG se necessario (ad esempio per l'Italia EPSG 3003 o 3004 per i due fusi del sistema Gauss-Boaga).
+
+Caratteristiche di raccolta mobile dei dati:
+
+- Mappe di sfondo disponibili: Google Maps, Bing Maps, Open Street Map, Mapbox e Offline mbtiles
+- Supporto per le coordinate RTK corrette quando il Bluetooth GPS / GNSS esterno è collegato
+- Supporto per i layer cartografici WMS e ArcGIS sovrapponibili alla mappa di sfondo Google Maps (sono caricabili basi cartografiche e ortofoto, indagini geologiche, informazioni catastali e numerosi altri servizi)
+- Possibilità di creare e mantenere set di attributi - questi sono disponibili come liste a discesa quando viene preso un nuovo punto; lunghe liste di attributi possono essere importati da file di testo (.txt)
+- Cluster per marcatori a punti, un modo efficiente di avere un gran numero di punti sulla mappa senza problemi di prestazioni
+- Attualmente sono supportati 4 metodi di raccolta (posizione GPS / GNSS, posizione cursore mappa, tracciamento, proiezione del punto usando angolo e distanza)
+- Possibilità di raggruppare i dati in layer d'indagine - ogni layer può avere un insieme predefinito di attributi.
+- Scheda SD locale o di esportazione remota. Al momento sono supportati i file Esri SHP, KML, CSV, GeoJSON, ArcGIS JSON, GPX e DXF
+- Possibilità di esportare direttamente alla posizione di Dropbox o FTP
+- Possibilità di registrare più punti, linee e poligoni su un unico livello
+- Durante la creazione di nuovi poligoni o linee sono disponibili anche dettagli di misura quali area o lunghezza
+- Visibile lo stato della ricerca dei satelliti GPS / GNSS 
+- Ricerca di indirizzi e località
+- Importare punti, linee e poligoni nel layer da file CSV, KML, ESRI Shapefile o file geojson
+- Gestione del backup
+- Importare / esportare gli attributi da file e molto altro ancora da scoprire...
+
+I nostri utenti stanno utilizzando con successo MapIt in numerose applicazioni tra cui:
+- Indagini ambientali
+- Censimenti arborei
+- Indagini sulla pianificazione e gestione forestale
+- Indagini sulle tipologie di agricoltura e suoli
+- Costruzioni stradali
+- Indagini geografiche
+- Applicazione di pannelli solari
+- Delimitazioni e copertura di proprietà
+- Indagini sulle piante
+- Rilevamenti GPS e GNSS
+- Rilevamento del sito e raccolta dei campioni di suolo
