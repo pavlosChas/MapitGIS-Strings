@@ -2,7 +2,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
     <string name="app_name">Mapit GIS</string>
     <string name="app_name_short" translatable="false">Mapit</string>
-    <string name="about_message">Mapit GIS version {0}\n\nContact us\n\nwww: https://mapit-gis.com/contact\n\nemail:\nfeedback@mapit-gis.com</string>
+    <string name="about_message">Mapit GIS version {0}\n\nContact us\n\nwww: https://mapitgis.com/contact\n\nemail:\nfeedback@mapitgis.com</string>
     <string name="pm_list_empty3">To save field you need to provide a name and add one or more values.\nPlease press the \'Add\' button to add values to the list.</string>
     <string name="field_value_blank">Field value cannot be blank.</string>
     <string name="deleteAttWarning">There is {0} layer(s) using this attributes set - Operation cannot be completed.</string>
@@ -58,7 +58,7 @@
     <string name="addAttributeSet">Add Attribute\'s Set</string>
     <string name="pm_add_info">Save the attribute set name and description to create an ID. When it\'s saved please choose it from the list and press \'Edit\' to define attribute\'s fields.</string>
     <string name="noFeatures">This layer does not have any features yet.\nTo add features please make this layer active and recorded some data on the map.</string>
-    <string name="whatsNewText">Would you prefer MapIt in your own language? Please visit http://mapit-gis.com/translations for more details.\n\nChangelog:\nhttp://mapit-gis.com/changelog\n\n</string>
+    <string name="whatsNewText">Would you prefer MapIt in your own language? Please visit https://mapitgis.com/translations for more details.\n\nChangelog:\nhttps://mapitgis.com/changelog\n\n</string>
     <string name="txt_aboutMapIt">About MapIt</string>
     <string name="txt_aboutMapItSum">Version information and contact details</string>
     <string name="addAttributeAsFreeText">You can also add this field as a TextBox type - in this case values are not required.</string>
@@ -109,7 +109,7 @@
     <string name="editFeatureEnd">Do you want to stop editing this feature?</string>
     <string name="deleteFeature">Do you want to remove this feature?</string>
     <string name="shapesTitle">MapIt - Lines and Polygons</string>
-    <string name="shapesDesc">To be able to add more than 2 Line or Polygon features per layer an extension is required. Do you want to buy the extension now?\n\nhttp://mapit-gis.com/line-polygon-layers\n</string>
+    <string name="shapesDesc">To be able to add more than 2 Line or Polygon features per layer an extension is required. Do you want to buy the extension now?\n\nhttps://mapitgis.com/line-polygon-layers\n</string>
     <string name="shapesLimit">Without active \'MapIt Pro\' extension you can add maximum 10 points to the feature. Do you want to buy this extension now?\n</string>
     <string name="offlineMapsMapBox">MapBox &amp; Offline Maps</string>
     <string name="offlineMaps">Offline Maps</string>
@@ -126,7 +126,7 @@
     <string name="offlineMapsExt">To use offline maps and access MapBox maps an extension is required. Do you want to acquire the extension now?</string>
     <string name="mapBoxMapId">Mapbox MapId (e.g. osedok.l4pfam2o):</string>
     <string name="mapBoxRequired">Name and MapId are required.</string>
-    <string name="offlineFiles">Please copy your .mbtiles files to\nSD Card->MapIt->OfflineMaps folder. \n\nPlease visit <a href="http://mapit-gis.com/offline-maps-mapbox-extension">Offline Maps &amp; Mapbox extension</a> to get more information.</string>
+    <string name="offlineFiles">Please copy your .mbtiles files to\nSD Card->MapIt->OfflineMaps folder. \n\nPlease visit <a href="https://mapitgis.com/offline-maps-mapbox-extension">Offline Maps &amp; Mapbox extension</a> to get more information.</string>
     <string name="file_type_Geo_JSON">Geojson files</string>
     <string name="importError">Error: There was a problem with importing features from file.</string>
     <string name="importNull">This file does not contain any {0} features to import.\nPlease check your import file or select another layer.</string>
