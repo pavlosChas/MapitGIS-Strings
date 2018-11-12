@@ -1,0 +1,47 @@
+Title:(Maximum 50 characters)
+Mapit GIS - GPS Map Surveys & Measurements
+
+
+
+Short description:(Maximum 80 characters)
+GPS and map based surveys - Mobile GIS for data collection and measurements.
+
+
+
+FULL Description (Maximum 4000 characters)
+MapIt adalah sebuah aplikasi GIS yang dirancang untuk mendukung pengumpulan data GPS dan jenis GPS berdasarkan survei. Ini adalah alat mobile GIS untuk surveyor pertanahan dan orang-orang yang berurusan dengan lingkungan dan data GIS lainnya. MapIt membuat GIS pengumpulan data atau aset survei proses lebih cepat dan efisien.
+App dapat juga digunakan sebagai alat untuk pengukuran dan untuk menghitung area atau jarak.
+Ketika mendaftar lokasi hanya memilih atribut yang diperlukan dari didefinisikan sebelumnya daftar drop-down, tidak perlu ketik informasi yang sama berulang-ulang. Impor daftar panjang atribut dari file teks jika diperlukan dan menggunakannya dalam beberapa proyek. Jika perlu, Anda dapat menambahkan satu atau lebih gambar ke lokasi masing-masing juga.
+Jika Anda Anda bekerja di bidang, mengumpulkan sejumlah besar spasial/lokasi berbasis data aplikasi ini adalah untuk Anda.
+Peta ini adalah alat yang sangat berguna bagi siapa pun yang terlibat kehutanan, pertanian dan lingkungan pertanian bisnis dan memungkinkan cepat pengumpulan data spasial tanpa perlu mengetik jumlah informasi yang sama kali.
+Mempercepat alur kerja Anda dan membuat pengumpulan data yang lebih efisien. Mengambil keuntungan dari survei lapisan dan kemungkinan untuk menggunakan kembali serangkaian atribut untuk beberapa survei yang sama. Mengekspor data ke file yang umum seperti SHP files,CSV, KML, GeoJSON, ArcGIS JSON, GPX, DXF dan proses mereka menggunakan perangkat lunak Desktop GIS seperti ArcGIS, ArcGIS Online atau open source QGIS dan alat profesional lainnya seperti MS Office.
+Silahkan kunjungi website kami dan ikuti http://mapit-gis.com berjalan-melalui (sampel pohon survei) untuk memahami lebih baik alur kerja aplikasi.
+Dukungan untuk jumlah sistem Koordinat: WGS84 (desimal atau derajat), Web Mercator, British National Grid, UTM NAD83, NATO, UTM India 1975 (Thailand), TM06 ETRS89-Portugal, D73 dimodifikasi Portugis Grid koordinat.
+Fitur berguna untuk pengumpulan Data Mobile:
+-Dasar maps: Google Maps, Bing Maps, buka peta Street, Mapbox dan Offline mbtiles,
+-Dukungan untuk WMS dan ArcGIS Server keramik peta layanan seperti Google Maps lapisan (peta topografi, pusat data ortofoto peta, survei geologi, informasi kadaster dan beberapa negara lain layanan gratis khusus dapat digunakan sekarang bersama dengan Google maps sebagai lapisan),
+-Kemungkinan untuk menciptakan dan memelihara menetapkan atribut - ini tersedia sebagai drop-down daftar ketika fitur baru sedang direkam, panjang daftar nilai dapat diimpor dari file teks.
+-Cluster untuk peta penanda, efisien memiliki sejumlah besar poin di peta tanpa masalah kinerja,
+-Saat ini 2 metode pengumpulan yang didukung (GPS lokasi, peta lokasi kursor),
+-Kemungkinan untuk mengelompokkan data Anda ke dalam lapisan survei - survei setiap lapisan mungkin memiliki satu set default atribut.
+-Lokal kartu SD ekspor atau berbagi pilihan. Pada saat SHP files, KML, CSV, GeoJSON, ArcGIS JSON ekspor didukung,
+-Kemungkinan untuk merekam beberapa poin, polyline and Polygon dan pada satu lapisan,
+-Ketika membuat poligon baru atau garis fitur pengukuran detil seperti area atau panjang juga tersedia.
+-GPS dan satelit status,
+-Cari lokasi alamat,
+-Mengimpor titik, garis dan poligon fitur ke lapisan dari file CSV, KML atau geojson
+-Impor nilai-nilai atribut dari file
+Pengguna kami berhasil menggunakan MapIt dalam jumlah aplikasi termasuk:
+-lingkungan survei,
+-hutan survei,
+-Kehutanan perencanaan dan survei manajemen hutan,
+-pertanian dan survei jenis tanah,
+-konstruksi jalan,
+-Tanah survei,
+-aplikasi solar panel,
+-atap dan pagar,
+-pohon survei,
+-Survei GPS,
+-situs survei dan mengumpulkan sampel tanah
+Jika Anda surveyor apapun silahkan check out aplikasi ini dan menemukan bagaimana dapat menghemat waktu Anda.
+Harap dicatat: masalah atau jika Anda memiliki ide-ide baru silahkan jangan ragu untuk menghubungi kami secara langsung atau menggunakan formulir kontak yang disediakan di website kami.

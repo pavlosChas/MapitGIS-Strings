@@ -1,0 +1,57 @@
+Title:(Maximum 50 characters)
+Mapit GIS - datan keräysohjelma
+
+
+
+Short description:(Maximum 80 characters)
+GPS- ja karttakenttätutkimuksiin: mobiili-GIS datan keräykseen ja mittaukseen.
+
+
+
+FULL Description (Maximum 4000 characters)
+MapIt on GIS-sovellus, joka on suunniteltu tukemaan GPS-tiedonkeruuta ja kaikenlaisia GPS-/GNSS-pohjaisia tutkimuksia. Se on mobiili GIS-työkalu maa- ja kenttätutkijoille, sekä kaikille, jotka käsittelevät ympäristö- ja GIS-tietoja. MapIt tekee paikkatietojen keräämisestä ja kenttätutkimusprosesseista nopeampaa ja tehokkaampaa.
+Sovellusta voidaan käyttää myös mittaustyökaluna pinta-alojen tai etäisyyksien määrittämiseen.
+Tiedot voidaan järjestää tasottain ja siirtää useina yleisinä formaatteina.
+
+Rekisteröitäessä sijainti, poimitaan halutut attribuutit valitusta pudotusvalikosta - samoja tietoja ei tarvitse kirjoittaa toisteisesti. Voidaan tuoda pitkiäkin attribuuttiluetteloita tekstitiedostoista ja uudelleenkäyttää niitä useissa projekteissa. Tarvittaessa voidaan lisätä kuvia tarkasteltuun paikkaan sitä kuvaamalla.
+
+Työskennelessäsi kentällä, keräten suuren määrän paikkatieto- ja sijaintitietoja, tämä sovellus on suunniteltu siihen - Sinulle.
+MapIt on täydellinen sovellus geokätköilijöille ja kaikille metsätalouden, maatalouden, ympäristönhoidon tai geologian harjoittajille, ja se mahdollistaa paikkatietojen nopean keräämisen tarvitsematta kirjata samankaltaisia tietoja toisteisesti.
+
+MapIt nopeuttaa työnkulkua ja tehostaa tiedonkeruuta. Hyödynnä kartoitustasot ja mahdollisuus käyttää samaa  ominaisuusjoukkoa useille kartoituksille. Vie tiedot yleisiin GIS-formaatteihin, kuten Esri-formaatteihin, CSV-, KML-, GeoJSON-, ArcGIS-JSON-, DXF-, GPX- ja niiden jälkiprosesseihin käyttämällä GIS-ohjelmistoja, kuten ArcGIS, ArcGIS Online tai qGIS.
+
+Käy verkkosivustollamme ja seuraa sovelluksen käytön havainnollistusta (Walk-Through) - http://mapit-gis.com ymmärtääksesi sen toimintaa paremmin.
+
+Tukee lukuisia koordinaattijärjestelmiä, tai toimitettua EPSG-koodia tarvittaessa.
+
+Mobiilidatan keräyssovelluksen ominaisuudet:
+
+- peruskartat: Google Maps, Bing-kartat, Open Street, Mapbox ja offline-tilat,
+- tuki RTK-korjatuille koordinaateille, kun ulkoinen Bluetooth GPS-/GNSS-laite on kytketty,
+- WMS- ja ArcGIS-palvelimelle ruutukarttapalvelujen (Tile Map Service, TMS) tukeminen Google Mapsin kuvapeitteinä (lataa topografiset ja ortofotografiset, geologiset kartoitukset, maarekisteritiedot ja lukuisat muut palvelut),
+- mahdollisuus luoda ja ylläpitää attribuutteja: nämä ovat saatavilla pudotusvalikkoina, kun uutta ominaisuutta tallennetaan - pitkiä arvoja voidaan tuoda tekstitiedostoista,
+- teemakarttojen karttamerkit: tehokas tapa saada suuri määrä pisteitä kartalle pienellä kapasiteetilla,
+- tällä hetkellä tuetaan 4 keräysmenetelmää (GPS-/GNSS-sijainti, karttakohdistimen sijainti, reitin seuranta sekä pisteen projektio käyttäen kulmaa ja etäisyyttä),
+- mahdollisuus ryhmitellä tiedot kartoitustasoihin: jokaisella tasolla voi olla oma oletusarvojoukko,
+- tuenta SD-kortille ja etäviennille: tällä hetkellä tuetaan Esri SHP -tiedostoja, KML-, CSV-, GeoJSON-, ArcGIS JSON-, GPX- ja DXF-vientejä,
+- suora vienti Dropbox- tai FTP-kohteeseen,
+- mahdollisuus tallentaa useita pisteitä, viivoja ja monikulmioita yhteen kerrokseen,
+- uusien monikulmio- tai linja-ominaisuuksien luomisessa on käytettävissä myös mittaustietoja, kuten pinta-ala ja pituus,
+- GPS/GNSS ja satelliittien tila,
+- osoite- ja sijaintihaku,
+- piste- , viiva- ja monikulmio-ominaisuuksien tuontimuodot: CSV, KML, ESRI Shapefile- tai geojson-tiedostot,
+- varmuuskopiointi,
+- voidaan tuoda/viedä attribuutteja tiedostosta, lisäksi paljon muuta löydettävissä...
+
+Asiakkaamme käyttävät MapIt-ohjelmaa menestyksekkäästi useissa sovelluksissa, kuten:
+- ympäristötutkimukset,
+- metsäntutkimukset,
+- metsäsuunnittelu ja metsänkäsittelyn seuranta,
+- maatalous- ja maaperätutkimukset,
+- tienrakennus,
+- maanmittaus,
+- aurinkopaneelien asennukset,
+- kattaukset ja aitaukset,
+- puututkimukset,
+- GPS- ja GNSS-mittaukset,
+- paikanmääritys ja maaperänäytteiden keräys.
