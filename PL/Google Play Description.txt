@@ -1,0 +1,65 @@
+Title:(Maximum 50 characters)
+Mapit GIS - Kolektor danych i pomiary GPS
+
+
+
+Short description:(Maximum 80 characters)
+Pomiary i kolekcja danych GPS - zarządzaj i zbieraj dane bardziej efektywnie.
+
+
+
+FULL Description (Maximum 4000 characters)
+MapIt jest aplikacją GIS zaprojektowaną do zbierania kolekcji danych GPS oraz wszelkiego rodzaju pomiarów terenowych.
+Aplikacja jest mobilnym zestawem narzędzi GIS przeznaczonym dla osób zajmujących się pomiarami terenowymi, zbieraniem danych środowiskowych, ochroną środowiska, leśnictwem, rolnictwem itp.
+MapIt sprawi, że zbieranie danych GIS oraz pomiary terenowe będą mogły byś wykonywane szybciej i sprawniej.
+Aplikacja jest również narzędziem do pomiaru odległości lub powierzchni.
+
+Przy dodawaniu nowych elementów przestrzennych na mapę, po prostu wybierz odpowiednie atrybuty punktu, lini lub poligonu z wcześniej 
+przygotowanych list zawierających zdefiniowane wartości bez potrzeby wpisywania ręcznie tych samych informacji.
+W razie potrzeby można przygotować zestaw atrybutów na komputerze typu PC i zaimportować pola i wartości z pliku tekstowego.
+Aplikacja pozwala również na dodanie jednego lub kilku zdjęć dla każdego elementu.
+
+Jeżeli pracujesz w terenie zbierając znaczne ilości danych przestrzennych ta aplikacja jest zaprojektowana właśnie dla ciebie.
+MapIt jest zestawem narzędzi przydatnym w leśnictwie, rolnictwie, ochronie środowiska, pomaga w prowadzeniu farmy i rozliczaniu dopłat bezpośrednich oraz może być zastosowany wszędzie tam gdzie występuje potrzeba gromadzenia danych przestrzennych.
+
+Używając aplikacji zwiększysz wydajność pracy i zaoszczędzisz czas. 
+Raz zdefiniowany zestaw atrybutów może być wykorzystany w wielu wartwach pomiarowych.
+Możliwość eksportu danych do znanych formatów takich jak SHP files, CSV, KML, GeoJSON, ArcGIS JSON, GPX, DXF pozwala na łatwe
+ przetwarzanie informacji na PC używając narzędzi GIS takich jak ArcGIS, ArcGIS Online lub qGIS i innych.
+
+Na naszej stronie internetowej znajduje się wiele przydatnych informacji http://mapit-gis.com. 
+Oferujemy również pomoc w języku polskim jeżeli zachodzi taka potrzeba. Prosimy o kontakt e-mail.
+
+APlikacja posiada wsparcie dla układów współrzędnych: WGS84, Web Mercator, System 1992 (Poland), ETRS89  i innych.
+
+Podstawowy zakres funkcji:
+
+- Mapy bazowe: Google Maps, Bing Maps, Open Street Map, Mapbox and Offline mbtiles,
+- Wsparcie dla WMS i serwisów ArcGIS Server (Tiled) jako nakładki na Google Maps (mapy topograficzne, orthophoto mapy, mapy geologiczne, informacja katastralna/ewidencyjna, dostęp do warstw z geoportalu i inne...),
+- Możliwość zarządzania atrybutami (tworzenie, edytowanie, usówanie, import, export) - atrybuty dosępne są następnie z listy w momencie dodawania elementu na mapie,
+- Grupowanie elementów punktowych w klastry,
+- 3 metody zbierania danych(lokalizacja GPS, kursor Mapy, tracking),
+- Możliwość organizacji danych w warstwy - każda warstwa może posiadać oddzielny zestaw atrybutów.
+- Eksport danych do formatu SHP files, KML, CSV, GeoJSON, ArcGIS JSON, GPX i DXF,
+- Podczas tworzenia elementów liniowych lub poligonów wyświetlana jest informacja o długości lub odpowiednio obwodzie i powierzchni,
+- Status i informacja o satelitach GPS,
+- Wyszukiwanie adresów i miejscowości,
+- Import punktów, lini lub poligonów do warstwy z plików CSV, KML lub geoJSON,
+- Zarządzanie kopiami zapasowymi,
+Oraz o wiele więcej do odkrycia...
+
+Posiadamy znaczną ilość zadowolonych klientów aplikacji MapIt pracujących w takich dziedzinach jak:
+- pomiary środowiskowe i ekologiczne,
+- pomiary leśne,
+- planowanie w leśnictwie i zarządzanie obszarami leśnymi,
+- pomiary i mapowanie siedlisk,
+- konstrukcja i projektowanie dróg,
+- pomiary geodezyjne i terenowe,
+- montowanie paneli słonecznych,
+- dekarstwo i ogrodzenia, 
+- pomiary GPS,
+- rolnicze dopłaty bezpośrednie
+- rybołówstwo i łowiectwo
+- projektowanie tras i szlaków rowerowych
+
+Uwaga: Jeżeli natkniesz się na problem lub posiadasz pomysł na ulepszenie aplikacji prosimy o kontakt za pośrednictwem poczty e-mail.
