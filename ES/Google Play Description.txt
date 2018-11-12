@@ -1,0 +1,52 @@
+Title:(Maximum 50 characters)
+Mapit - Colector de datos GPS, mediciones de campo
+
+
+
+Short description:(Maximum 80 characters)
+GPS and estudio de campo en mapas - App para recolección de datos y mediciones.
+
+
+
+FULL Description (Maximum 4000 characters)
+MapIt es una aplicación GIS diseñado para ayudarte en la recolección de datos GPS y cualquier tipo de estudio basado en GPS. Es una herramienta GIS móvil para topógrafos o cualquier persona que trate con datos ambientales y GIS. MapIt hace la recolección de datos de SIG o mediciones sea un proceso más rápido y eficiente.
+Esta aplicaciópn se puede utilizar tambien como herramienta para la medición y calculo de áreas o distancias.
+
+Al registar la localización, simplemente introduzca los atributos necesarios de la lista desplegable definida previamnete, no hay necesidad de escribir la misma información una y otra vez. Importe larga lista de atributos de archivos de texto y vuelva a utilizarlas en varios proyectos. Si es necesario, también puede añadir una o varias imágenes para cada ubicación. 
+
+Si realizas trabajos de campo, recogiendo gran cantidad de datos (ubicación) esta aplicación está diseñada para ti.
+Mapit es una herramienta muy útil para cualquier persona involucrada en la silvicultura, la agricultura, medio ambiente, granjas, etc y permite la recolección rápida de datos espaciales sin necesidad de escribir varias veces una información similar.
+
+Acelera el flujo de trabajo y hace la recolección de datos más eficiente. Cree capas predefinidas con la posibilidad de volver a utilizarlas en múltiples estudios. Exporta los datos a archivos comunes como SHP files, CSV, KML, GeoJSON, ArcGIS JSON, DXF y puede realizar el proceso posterior de sus datos utilizando software SIG de escritorio como ArcGIS, ArcGIS Online o QGIS y otras herramientas como MS Excel.
+
+Por favor, visita nuestra página web (http://mapit-gis.com) y sigue un ejemplo (estudio de árboles), para comprender mejor el flujo de trabajo de la aplicación.
+
+Soporte para varios sistemas de coordenadas: WGS84 (decimal o grados), Web Mercator, British National Grid, SAD69 UTM (Brasil), UTM NAD83, la OTAN, Sistema de 1992 (Polonia), UTM india 1975 (Tailandia) , sistema SIRGAS 2000 UTM coordenadas para el sur y América Latina, ETRS89 TM06? Portugal, D73 Modificado Portugués cuadrícula.
+
+Características útiles para la recolección de datos móviles:
+
+- Mapas Base: Google Maps, Bing Maps, Open Street Map, Mapbox y mbtiles offline.
+- Soporte para WMS y ArcGIS Server Tiled map como superposiciones de Google Maps (se puede utilizar ahora junto con los mapas de Google como una superposición mapas topográficos, ortofotos, mapas geológicos, la información catastral y número de servicios gratuitos específicos otro país).
+- Posibilidad de crear y mantener conjuntos de atributos - están disponibles como listas desplegables cuando se está grabando una nueva característica, las listas de valores largas pueden importarse desde archivos de texto.
+- Los marcadores de mapase agrupan de forma eficiente para tener gran número de puntos sin problemas de rendimiento.
+- 3 métodos de recolección (localización GPS, mapa de ubicación del cursor, seguimiento).
+- Posibilidad de agrupar los datos en las capas del estudio - cada capa pueden tener un conjunto predeterminado de atributos.
+- Se puede exportar en los formatos SHP files,KML, CSV, GeoJSON, ArcGIS JSON y DXF.
+- Posibilidad de grabar múltiples puntos, polilíneas y polígonos en una sola capa.
+- También están disponibles características de medición al crear un nuevo polígono o lineas como área o longitud.
+- GPS y estado de satélites.
+- Dirección, búsqueda de localización.
+- Características de importación, de un punto, línea y polígono en la capa de CSV, KML o un archivo GeoJSON.
+- Gestión de copia de seguridad.
+- Importar/Exportar atributos de archivo y mucho más...
+
+Nuestros usuarios están utilizando MapIt con éxito en un gran número de aplicaciones, incluyendo:
+- Estudios ambientales.
+- Estudios de bosques.
+- Estudios de planificación forestal y la gestión de bosques.
+- Estudios agrícolas y tipos de suelos.
+- Construcción de carreteras.
+- Aplicación en paneles solares.
+- Cubiertas y vallados.
+- Estudio de árboles.
+- Levantamientos GPS.
