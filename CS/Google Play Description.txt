@@ -1,0 +1,56 @@
+Title:(Maximum 50 characters)
+Mapit GIS - Map Data Collector & Measurements
+
+
+
+Short description:(Maximum 80 characters)
+GPS a mapování v terénu – Mobilní nástroj GIS pro sběr dat a měření v terénu.
+
+
+
+FULL Description (Maximum 4000 characters)
+MapIt je GIS aplikace navržená pro podporu sběru dat pomocí GPS a jakéhokoli druhu průzkumu založeného na GPS / GNSS. Jedná se o mobilní nástroj GIS pro terénní a pozemkové mapování. Je určen také pro každého, kdo pracuje s enviromentálními a GIS daty. MapIT umožňuje rychlejší a efektivnější způsob sběru GIS dat v terénu. Aplikace může být také použita pro měření a výpočty plochy nebo vzdálenosti. Data mohou být organizována do vrstev a exportována do běžných formátů.
+
+Při zadávání polohy můžete jednoduše vybírat atributy z rozevíracího seznamu. Není nutné zadávat stejné informace znovu a znovu. Můžete importovat dlouhý seznam atributů z textových souborů a použít je jednoduše znovu v další projektech. Pokud je to nutné můžete přidat foto do každé pozice. 
+
+Jestliže pracujete v terénu a shromažďujete velké množství dat, pak je tato aplikace určena přímo pro vás. MapIt je perfektní aplikace pro každého, kdo se zabývá lesnictvím, zemědělstvím, ekologií nebo podnikáním v odvětví, kde je potřeba rychle shromažďovat prostorová data bez nutnosti opakovaně zadávat stejné informace. 
+
+Zrychluje pracovní postup a umožňuje efektivnější sběr dat. Využijte výhodu přehledu jednotlivých vrstev a možnosti opětovného použití stejného souboru atributů pro více měření. Exportujte data do běžných formátů GIS, jako jsou Esri (shp), CSV, KML, GeoJSON, ArcGIS JSON, DXF, GPX a poté zpracujete data pomocí softwaru GIS, jako je ArcGIS, ArcGIS Online nebo qGIS.
+
+Pro více informací o aplikaci a jejím fungování navštivte naše stránky http://mapit-gis.com 
+
+Podpora následujících souřadnicových systémů: WGS84 (decimal or degrees) Web Mercator, British National Grid, UTM SAD69 (Brazílie), UTM NAD83, NATO, Stereo 70 (Rumunsko), System 1992 (Polsko), UTM Indian 1975 (Thailand), SIRGAS 2000 UTM coordinate system for South & Latin America, ETRS89, TM06 – Portugal, D73 Modified Portuguese Grid nebo je možné doplnit další souřadnicové systémy pomocí kódu EPSG.
+
+Funkce pro mobilní sběr dat:
+
+- Podkladové mapy: Google Mapy, Bing Mays, Open Street Map, Mapbox a off-line mapy mbtiles
+- Podpora RTK korekcí při připojení externího zařízení Bluetooth GPS /GNSS
+- Podpora pro služby WMS a ArcGIS jako překryvných nebo podkladových map. Možnost načtení topografických a ortofotografických map, geologických průzkumů, katastrálních map a mnoha dalších služeb.
+- Možnost vytvářet a udržovat sady atributů, které jsou poté k dispozici v rozevíracím seznamu při vytváření nové vrstvy, dlouhé seznamy hodnot je pak možné importovat z textových souborů
+- Značky shlukování bodů na mapě, efektivní způsob jak mít na mapě množství bodů bez problémů s výkonem.
+- Momentálně jsou podporovány 4 metody sběru dat (pomocí lokace GPS/GNSS, lokace mapového kurzoru, nahrávání trasy, projekce bodu)
+- Možnost seskupit data do vrstev a každá vrstva může mít nastavena výchozí atributy.
+- Možnost ukládat data na SD kartu. V současnosti je podpora formátů pro export následující: Esri SHP, KML, CSV, GeoJSON, Arcgis JSON, GPX a DXF
+- Přímí export přes Dropbox nebo FTP.
+- Možnost nahrání více bodů, čar a polygonů do jedné vrstvy
+- Při vytváření nového polygonu nebo vrstvy jsou k dispozici aktuální podrobné informace plochy nebo délky.
+- Aktuální informace o satelitech GPS / GNSS přesnosti signálu, kvalitě apod.
+- Vyhledávání adres a lokací
+- Import bodů, linií a ploch do vrstev pomocí CSV, KML, ESRI Shapefile nebo geoJSON
+- Podpora zálohování
+- Import/Export atributů ze souboru a mnoho dalšího k objevování....
+
+Naši uživatelé plně využívají aplikaci MapIT v mnoha oblastech jako jsou:
+
+- Životní prostředí 
+- Lesní průzkumy a plánování
+- Zemědělství a průzkumy půd
+- Silniční stavby
+- Pozemní plánování 
+- Výstavba solárních panelů
+- Výstavba oplocení
+- Průzkum stromové kultury
+- Průzkum za pomocí GPS a GNSS
+- Průzkum a shromažďování dat o typech půd
+
+Neváhejte nás kontaktovat ať už přímo nebo prostřednictvím kontaktního formuláře na našich webových stránkách.
