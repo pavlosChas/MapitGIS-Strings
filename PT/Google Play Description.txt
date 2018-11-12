@@ -1,0 +1,52 @@
+Title:(Maximum 50 characters)
+Mapit - coletor de dados GPS e medições de campo
+
+
+
+Short description:(Maximum 80 characters)
+Pesquisas de campo utilizando GPS ou mapas - SIG com coleta de dados e medidas.
+
+
+
+FULL Description (Maximum 4000 characters)
+MapIt é uma ferramenta desenvolvida para a coleta de dados para Sistemas de Informação Geográfica (SIG) com base em GPS ou mapas. É uma ferramenta SIG móvel utilizada para coleta de dados no campo por profissionais da área ambiental ou que utilizam outros tipos de dados geográficos. O MapIt torna a coleta de dados para os SIG uma tarefa fácil, rápida e mais eficiente. 
+O aplicativo também pode ser usado como uma ferramenta de medição, para o cálculo de áreas e de distâncias.
+
+Durante a coleta de dados, selecione os atributos para o objeto que deseja registrar em uma lista pré-definida. Não é necessário digitar a mesma informação todas as vezes que for criar um registro. Se a lista de atributos for muito longa você pode importa-la a partir de um arquivo de texto e ainda reutiliza-la em vários projetos. O aplicativo também permite adicionar uma ou mais fotos em um registro.
+
+O MapIt é uma ferramenta muito útil para qualquer um envolvido em silvicutura, agricultura, meio ambiente ou em fazendas. Permite a coleta de informações espaciais de uma maneira rápida, sem a necessidade de digitar a mesma informação inúmeras vezes.
+
+Aumente a velocidade do seu trabalho tornando a coleta de dados mais eficiente. Faça uso de camadas de levantamento e aproveite o mesmo grupo de atributos em diversas pesquisas. Exporte seus dados em formatos genéricos como SHP files,CSV, KML, GeoJSON, ArcGIS JSON, GPX, DXF e realize o processamento dos mesmos usando aplicativos no computador como o ArcGIS, ArcGIS Online ou o QGIS que é de código aberto. Outras ferramentas como o MS Office também podem ser utilizadas.
+
+Por favor visite o tutorial em nossa página (exemplo de um levantamento de árvores) http://mapit-gis.com e entenda melhor o funcionamento do aplicativo. 
+
+Funcionalidades úteis à coleta de dados remotos:
+
+- Mapas base: Google Maps, Bing Maps, OpenStreetMap, Mapbox e os mapas offline mbtiles,
+- Suporte aos serviços WMS e ArcGIS Server Tiled Map Services bem como ao Google Maps Overlays (Mapas topográficos, fotos ortométricas, pesquisas geológicas, informações de cadastro e uma série de outros serviços disponíveis de acordo com a região que podem ser usados em conjunto com o Google Maps),
+- Possibilidade de criar e manter uma série de atributos - estes ficam disponíveis na forma de uma lista no momento em que o elemento é salvo. Listas muito longas podem ser importadas de arquivos no formato texto.
+- Agrupamento de pontos para profissionais da área de cartografia permitem trabalhar com uma grande quantidade de dados no mapa sem queda no desempenho,
+- Atualmente três métodos de coleta de dados são suportados (localização do GPS, posição do cursor no mapa, ponto projetado),
+- Registro de trilhas por GPS para linhas e polígonos.
+- Possibilidade de agrupar informações em várias camadas - cada camada pode possuir um grupo diferente de atributos.
+- Exportação para um cartão SD ou compatilhamento de informações. No momento é suportada a exportação para os arquivos SHP files, KML, CSV, GeoJSON e ArcGIS JSON, GPX, DXF,
+- Possibilidade de gravar múltiplos pontos, poli-linhas e polígonos em uma mesma camada.
+- Ao criar um novo polígono ou linhas, funções de medição como área e comprimento também estão disponíveis.
+- Status dos satélites e GPS,
+- Busca por endereço e pontos de interesse,
+- Importar pontos, linhas e polígonos para uma camada a partir de arquivos CSV, KML ou geojson,
+- Importar atributos de um arquivo,
+- Gerenciamento de backups
+
+Nossos usuários tem utilizado o MapIt com sucesso em diversas aplicações:
+- levantamentos ambientais,
+- levantamentos florestais,
+- silvicultura e planejamento de reflorestamentos,
+- agricultura e levantamento de tipos de solo,
+- construção de estradas,
+- medição de terrenos,
+- projeto de sistemas solares,
+- serviços em telhados e cercas,
+- levantamento de árvores,
+- pesquisas com GPS,
+- coletas de amostras de solo
