@@ -1,5 +1,5 @@
 <resources>
-        <string name="about_message">MapIt version {0}\n\nContact us\n\nwww: https://mapitgis.com/contact\n\nemail:\nfeedback@mapitgis.com</string>
+        <string name="about_message">MapIt version {0}\n\nNeem contact met ons op\n\nwww: https://mapitgis.com/contact\n\nemail:\nfeedback@mapitgis.com</string>
         <string name="pm_list_empty3">Om veld op te slaan, moet je een naam en één of meer waarden opgeven.\nDruk op de \'Plus\'-knop om waarden toe te voegen aan de lijst.</string>
         <string name="field_value_blank">Waarde voor veld kan niet leeg zijn.</string>
         <string name="deleteAttWarning">Er zijn {0} lagen die deze attributes set gebruiken - Bewerking kan niet voltooid worden.</string>
@@ -777,7 +777,7 @@
         <string name="txtGdriveConnect">Maak verbinding met GDrive</string>
         <string name="exportGDriveSuccess">De gegevens zijn succesvol opgeladen naar map Google Drive->{0}.</string>
         <string name="displayGNSSInfoOnTheMap">Nauwkeurigheid &amp; GPS Kwaliteit op de kaart</string>
-        <string name="averagingPositionsTime">Uitmiddel tijd</string>
+        <string name="averagingPositionsTime">Duur uitmiddeling</string>
         <string name="averagingPositionsSumTime">Aantal seconden voor uitmiddelen positie</string>
         <string name="secureService">Dit is een beveiligde service</string>
         <string name="gstyleSum" translatable="false">Selecteer Google Map Stijl</string>
