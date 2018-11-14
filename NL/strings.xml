@@ -56,7 +56,7 @@
         <string name="noFeatures">Deze laag heeft nog geen kaartobjecten.\nOm kaartobjecten toe te voegen, maak de laag aub actief en registreer gegevens in de kaart.</string>
         <string name="whatsNewText">Zou je MapIt verkiezen in je eigen taal? Ga naar https://mapitgis.com/translations voor meer details.\n\nChangelog:\nhttps://mapitgis.com/changelog\n\n</string>
         <string name="txt_aboutMapIt">Over MapIt</string>
-        <string name="txt_aboutMapItSum">Versie informatie en contact informatie</string>
+        <string name="txt_aboutMapItSum">Versie informatie en contactgegevens</string>
         <string name="addAttributeAsFreeText">Je kan dit veld ook toevoegen als type Tekstvak - in dit geval zijn waarden niet vereist.</string>
         <string name="txtScalar">Dit veld is een Tekstvak</string>
         <string name="txtGPSLost">GPS signaal is verloren.</string>
