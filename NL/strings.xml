@@ -354,7 +354,7 @@
         <string name="txt_Credits">Dankuwel</string>
         <string name="txt_CreditsSum">Dank aan de mensen die me geholpen hebben bij de vertaling van deze toepassing.</string>
         <string name="whatsNewTitle">Wat is er nieuw</string>
-        <string name="txt_rate_title">Rate</string>
+        <string name="txt_rate_title">Beoordeling</string>
         <string name="txt_remind_me_later">Herinner me later</string>
         <string name="txt_no_thanks">Nee, dankjewel</string>
         <string name="close">Sluit</string>
@@ -367,7 +367,7 @@
         <string name="facebook_title">Like MapIt op Facebook</string>
         <string name="facebook_sum">Krijg onmiddellijke toegang tot nieuws en aankondigingen.</string>
         <string name="txt_aboutMapItGplus">Meedoen met Google+</string>
-        <string name="txt_openURL">Druk in om website te openen in de browser</string>
+        <string name="txt_openURL">Tik om website te openen in de browser</string>
         <string name="txt_aboutTwitter">Volg ons op Twitter</string>
         <string name="pref_1">Centreer op GNSS locatie</string>
         <string name="pref_10">Zoom knoppen</string>
