@@ -9,13 +9,13 @@ GPS- und Kartenbasierte Datenerhebung - Mobiles GIS für Vermessungen.
 
 
 FULL Description (Maximum 4000 characters)
-MapIt ist eine mobile GIS-Anwendung, die für GPS-gestützte Datenerhebungen und eine Vielzahl von Vermessungsaufgaben entwickelt wurde - ein mobiles GIS-Werkzeug für Vermesser and Datenerfasser. 
+Mapit ist eine mobile GIS-Anwendung, die für GPS-gestützte Datenerhebungen und eine Vielzahl von Vermessungsaufgaben entwickelt wurde - ein mobiles GIS-Werkzeug für Vermesser and Datenerfasser. 
 Im Feld können Flächen und Entfernungen gemessen werden werden, und damit die Planung der Aufnahmen unterstützen.
 Wenn eine Position neu erfasst wird können die erforderlichen Attribute aus einer vorher definierten DropDown-Auswahlliste gewählt werden und die gleichen Informationen müssen nicht immer wieder Zeichen für Zeichen eingetippt werden. Bei Bedarf können lange Listen von vordefinierten Attribut-Werten auch aus Textdateien eingelesen und in verschiedenen Projekten verwendet werden. 
 Außerdem kann zu jeder Position ein oder mehrere Fotos hinterlegt werden.
 Wenn große Sammlungen von räumlichen/postionsbezogenen Daten angelegt und verwaltet werden sollen, ist diese Anwendung genau das Richtige. 
-MapIt ist somit ein sehr nützliches Werkzeug z.B. für Aufgaben der Landvermessung, der Forst- und Landwirtschaft, oder dem Umweltbereich.
-MapIt beschleunigt den Arbeitsfluss und steigert die Effizenz bei der Datenerfassung. Die Daten werden in Layern mit spezifischen Attributen angelegt und das gleiche Attribut-Set kann für verschiedene Projekte verwendet werden. 
+Mapit ist somit ein sehr nützliches Werkzeug z.B. für Aufgaben der Landvermessung, der Forst- und Landwirtschaft, oder dem Umweltbereich.
+Mapit beschleunigt den Arbeitsfluss und steigert die Effizenz bei der Datenerfassung. Die Daten werden in Layern mit spezifischen Attributen angelegt und das gleiche Attribut-Set kann für verschiedene Projekte verwendet werden. 
 Die Daten können in allgemein bekannte Dateiformate wie SHP files, CSV, KML, GeoJSON, GPX, ArcGIS JSON exportiert werden und so direkt in einer Desktop-GIS-Software wie ArcGIS oder QGIS und anderen Profi-Programmen wie MS-Office weiterverarbeitet werden.
 Folgende Koordinatensysteme werden unterstützt: WGS84, Web Mercator, British National Grid, UTM SAD69 (Brazil), UTM NAD83, NATO, und  weitere können über ihren EPSG-Code hinzugefügt werden.
 Nützliche Eigenschaften für die mobile Erfassung von Daten:
@@ -32,7 +32,7 @@ Nützliche Eigenschaften für die mobile Erfassung von Daten:
 - Adressen-, Positionssuche
 - Import von Punkt-, Linien und Polygon-Features aus einer CSV-, KML- oder geojson-Datei.
 - Import von Attribut-Werten aus einer Datei.
-Unsere Benutzer verwenden MapIt für verschiedene Anwendungsgebiete:
+Unsere Benutzer verwenden Mapit für verschiedene Anwendungsgebiete:
 - Umwelt
   + Baumkataster
   + Solaranlagen - Dachflächen
