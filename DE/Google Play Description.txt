@@ -34,16 +34,16 @@ Nützliche Eigenschaften für die mobile Erfassung von Daten:
 - Import von Attribut-Werten aus einer Datei.
 Unsere Benutzer verwenden Mapit für verschiedene Anwendungsgebiete:
 - Umwelt
-  + Baumkataster
-  + Solaranlagen - Dachflächen
-  + versiegelte Flächen
-  + Einzäunungen
+- Baumkataster
+- Solaranlagen - Dachflächen
+- Versiegelte Flächen
+- Einzäunungen
 - Forstwirtschaft
-  + forstwirtschaftliche Planung
-  + Waldgebiete-Verwaltung
+- Forstwirtschaftliche Planung
+- Waldgebiete-Verwaltung
 - Landwirtschaft 
-  + Anbauflächen von Kulturpflanzen
+- Anbauflächen von Kulturpflanzen
 - Straßenbau
-  + Baustellen und Bodenproben
+- Baustellen und Bodenproben
 - Landvermessung
 - GPS-Vermessung
