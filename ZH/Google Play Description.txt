@@ -17,7 +17,7 @@ MapIt是一个GIS应用程序，旨在支持GPS数据采集和任何类型的基
 
 如果您在现场工作，并采集大量的空间/位置的数据，那么这个应用程序是为您设计的。MapIt是一个完美的应用程序，可应用于任何林业，农业，环境或农场业务，并允许快速采集空间数据，而无需多次键入类似信息。
 
-使用MapIt可加快工作流程，提高数据采集效率。有利于测量图层和重复使​​用同一套属性进行多次测量。可将数据导出到常见的GIS格式，如Esri shapefile，CSV，KML，GeoJSON，ArcGIS JSON，DXF，GPX，并使用Desktop GIS软件（如ArcGIS，ArcGIS Online或qGIS）后处理数据。
+使用MapIt可加快工作流程，提高数据采集效率。有利于测量图层和重复使​​用同一套属性进行多次测量。可将数据导出到常见的GIS格式，如Esri shapefile，CSV，KML，GeoJSON，DXF，GPX，并使用Desktop GIS软件（或qGIS）后处理数据。
 
 请访问我们的网站，跟随网站里的Walk-Through部分， - http://mapit-gis.com 来更好地了解应用程序的工作流程。
 
@@ -28,12 +28,12 @@ MapIt是一个GIS应用程序，旨在支持GPS数据采集和任何类型的基
 
 - 基本地图：谷歌地图，Bing地图，Open Streep Map，Mapbox和离线mbtiles，
 - 当外部蓝牙GPS/GNSS连接时，支持RTK校正的坐标，
-- 支持WMS和ArcGIS Server作为谷歌地图叠加层（分别载入地形和正射影像地图，地质测量，地籍信息和其他服务数量的地图服务。
+- 支持WMS和ArGIS Server作为谷歌地图叠加层（分别载入地形和正射影像地图，地质测量，地籍信息和其他服务数量的地图服务。
 - 可以创建和维护一组属性 - 当记录新特征时，这些属性可以作为下拉列表使用，长文本列表可以从文本文件导入。
 - 用于点地图标记的集群，在地图上具有大量点的有效方式，没有性能问题，
 - 目前支持4种采集方式（GPS/GNSS位置，地图光标位置，轨迹跟踪，使用角度和距离的点投影），
 - 可以将您的数据分组到测量图层 - 每个测量图层可能具有一组默认的属性。
-- 本地SD卡或远程导出。目前支持Esri SHP文件，KML，CSV，GeoJSON，ArcGIS JSON，GPX和DXF导出，
+- 本地SD卡或远程导出。目前支持Esri SHP文件，KML，CSV，GeoJSON，GPX和DXF导出，
 - 直接导出到Dropbox或FTP位置，
 - 可以在一个图层上记录多个点，线和面，
 - 创建新的面或线特征时，也可以使用区域或长度等测量细节。
