@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
     <string name="about_message">Mapit GIS version {0}\n\nContact us\n\nwww: https://mapitgis.com/contact\n\nemail:\nfeedback@mapitgis.com</string>
-    <string name="pm_list_empty3">To save field you need to provide a name and add one or more values.\nPlease press the \'Add\' button to add values to the list.</string>
-    <string name="field_value_blank">Field value cannot be blank.</string>
-    <string name="deleteAttWarning">There is {0} layer(s) using this attributes set - Operation cannot be completed.</string>
-    <string name="editProjectWarning">You are trying to edit project which does contain underlying data. It\'s highly recommended that you do not change the attributes now.\n\nYour existing data may get inconsistent with new definitions.\n\nAre you sure you would like to continue?</string>
-    <string name="editAttributeSet">Edit Attribute</string>
-    <string name="defaultAttributeSet">Default set of attributes:</string>
-    <string name="addField">Add Field</string>
+    <string name="pm_list_empty3">Για να αποθηκευσετε πεδίο θα χρειαστεί να το ονομάσετε και να προσθέσετε μία ή περισσότερες τιμές.\nΠαρακαλώ πιέστε το add \'Add\' πλήκτρο για να προσθέσετε τιμές στην λίστα.</string>
+    <string name="field_value_blank">Η τιμή πεδίου δεν μπορεί να είναι κενή.</string>
+    <string name="deleteAttWarning">Υπάρχουν {0} επίπεδο(α) που χρησιμοποιουν αυτό το σύνολο χαρακτηριστικών - Η λειτουργία δεν μπορεί να ολοκληρωθεί.</string>
+    <string name="editProjectWarning">Προσπαθείτε να επεξεργαστείτε ένα έργο που περιέχει δεδομένα. Συνιστάται ισχρά να μην κάνετε αλλαγές στα χαρακτηριστικά τώρα.\n\n Τα υπάρχοντα δεδομένα σας μπορεί να αποκτήσουν ασυμβατότητα με νέους ορισμούς.\n\nΕίσε σίγουρος ότι επιθυμείτε να συνεχίσετε;</string>
+    <string name="editAttributeSet">Επεξεργασία χαρακτηριστικών</string>
+    <string name="defaultAttributeSet">Προεπιλεγμένο σύνολο χαρακτηριστικών Default set of attributes:</string>
+    <string name="addField">Προσθήκη πεδίου</string>
     <string name="addLayer">Add Layer</string>
     <string name="addFeature">Add Feature</string>
     <string name="drawer_section1">Open existing layer</string>
