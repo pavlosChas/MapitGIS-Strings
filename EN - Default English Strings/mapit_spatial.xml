@@ -1,5 +1,5 @@
 <resources>
-<!-- Mapit Spatial - Specific Strings Below-->
+<!-- Mapit SPATIAL Specific Below-->
     <string name="spatialSubscription">Mapit Spatial Subscription</string>
     <string name="attributeSetExported">Attribute set has been exported and saved to:</string>
     <string name="isSelectable">Features can be selected on the map</string>
@@ -41,6 +41,7 @@
     <string name="geopackageAttributeSetsNoFields">Not able to find valid attribute set. Please make sure you have created the attribute set and it contains valid fields defined.</string>
     <string name="geopackageAttributeSetsEmpty">You have not yet created any \'Attribute Set\' for selected geopackage. Please press the \'Add\' or \'Import\' (button with arrow) below.</string>
     <string name="shareGeopackage">Share geopackage</string>
+
     <string name="geopackage_table_index_features_createIndex">Rebuild</string>
     <string name="geopackage_table_index_features_index_create_label">Create</string>
     <string name="geopackage_table_index_features_index_title">index</string>
@@ -50,6 +51,8 @@
     <string name="gettingFeaturesToImport">Getting features to import…</string>
     <string name="positionInfo">Position Information</string>
     <string name="projectionNotSupported">Selected projection is not supported - the coordinate system will be reset to WGS84</string>
+
     <string name="deleteField">Delete Field</string>
     <string name="deleteFieldProblem">Field cannot be removed for this table. There was a problem with primary key and geometry field column index id.</string>
+</resources>
 </resources>
